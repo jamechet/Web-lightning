@@ -1,4 +1,4 @@
-public with sharing class HelloWorld {
+public class HelloWorld {
     public HelloWorld() {
 
     }
